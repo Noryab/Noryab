@@ -6,6 +6,6 @@ Here you'll find a small sample of the projects I've hacked on over the years. Y
 
 <p align="center">
   <a href="https://noryab.github.io/">
-    <img src="https://github.com/Noryab/Noryab/Resources/languaje/python.svg" alt="python" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/Noryab/Noryab/Resources/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
   </a>  
 </p>
