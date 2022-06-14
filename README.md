@@ -10,9 +10,9 @@ Learning about Software Engineering, Robotics, Machine Learning, Computer Vision
 
 Data Scientist at Softel
 
-Electronic Engineer
-
 Master in electrical engineering
+
+Electronic Engineer
 
 # Technologies I use every day
 
