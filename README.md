@@ -1,4 +1,4 @@
-### Hi there
+# **Hi there**
 
 # Who am I?
 
@@ -14,7 +14,7 @@ Master in electrical engineering
 
 Electronic Engineer
 
-# Technologies I use every day
+# Technologies I use
 
 <h3 align="left">Languages:</h3>
 
