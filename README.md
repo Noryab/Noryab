@@ -161,7 +161,7 @@ Here you'll find a small sample of the projects I've hacked on over the years. Y
 
 # What do I do when I am not working and/or learning?
 
-You'll find me playing with my kids, playing guitar, reading a book, figuring out where I'm going to travel next, and drawing with a cup of coffee nearby.
+You'll find me playing with my kids, playing guitar, reading a book, figuring out where I'm going to travel next, or drawing with a cup of coffee nearby.
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
