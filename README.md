@@ -8,8 +8,6 @@ Founder of XamanAI and AllKoD
 
 Learning about Software Engineering, Robotics, Machine Learning, Computer Vision and Cloud Architecture
 
-Data Scientist at Softel
-
 Master in electrical engineering
 
 Electronic Engineer
