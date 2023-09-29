@@ -2,7 +2,7 @@
 
 # Who am I?
 
-<h3 align="center">A FullStack ML Engineer from Colombia</h3>
+<h3 align="center">A ML Engineer from Colombia</h3>
 
 Founder of XamanAI and AllKoD
 
