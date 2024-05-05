@@ -2,11 +2,11 @@
 
 # Who am I?
 
-<h3 align="center">A ML Engineer from Colombia</h3>
+<h3 align="center">A Data and ML Engineer from Colombia</h3>
 
 Founder of XamanAI and AllKoD
 
-Learning about Software Engineering, Robotics, Machine Learning, Computer Vision and Cloud Architecture
+Learning about Software Engineering, Data Engineering, Robotics, Machine Learning, Computer Vision and Cloud Architecture
 
 Master in electrical engineering
 
