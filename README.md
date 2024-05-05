@@ -43,7 +43,7 @@ Electronic Engineer
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
   </a>   
 </p>
-
+<!---
 <h3 align="left">Frontend Development:</h3>
 <p align="center">   
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -62,6 +62,7 @@ Electronic Engineer
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a> 
 </p>  
+-->
 
 <h3 align="left">Backend Development:</h3>  
 <p align="center">   
