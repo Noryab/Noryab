@@ -4,7 +4,7 @@
 
 <h3 align="center">A Data and ML Engineer from Colombia</h3>
 
-Founder of XamanAI and AllKoD
+Founder of Kalilex
 
 Learning about Software Engineering, Data Engineering, Robotics, Machine Learning, Computer Vision and Cloud Architecture
 
@@ -63,8 +63,8 @@ Electronic Engineer
 
 <h3 align="left">Backend Development:</h3>  
 <p align="center">   
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>   
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/FastAPI_logo.svg" alt="fastapi" width="40" height="40"/>   
   </a>   
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
